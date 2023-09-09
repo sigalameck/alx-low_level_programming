@@ -1,13 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
- * main -serves as the starting point for every program
+ * main - start code
  *
- * Return: ends execusion in a program
+ * Return: end code
  */
-
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
-}		
+
+}
